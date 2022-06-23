@@ -85,7 +85,7 @@
     "difflib": "^0.2.4",
     "eslint": "^6.6.0",
     "eslint-plugin-empty-returns": "^1.0.2",
-    "jsdom": "^15.1.1",
+    "jsdom": "^16.5.0",
     "nyc": "^14.1.1",
     "phantomjs-prebuilt": "^2.1.16",
     "stylelint": "^11.0.0",
